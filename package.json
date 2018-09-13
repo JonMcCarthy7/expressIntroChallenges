@@ -1,0 +1,20 @@
+{
+  "name": "expressIntroChallenges",
+  "version": "1.0.0",
+  "description": "## Part One:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonMcCarthy7/expressIntroChallenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonMcCarthy7/expressIntroChallenges/issues"
+  },
+  "homepage": "https://github.com/JonMcCarthy7/expressIntroChallenges#readme"
+}
